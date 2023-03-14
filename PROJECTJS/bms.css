@@ -1,0 +1,79 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(51,53,69);
+    padding: 15px 60px;
+    align-items: center;
+}
+.logo{
+    display: flex;
+}
+.logo input{
+    margin-left: 20px;
+    width: 535px;
+    border: none;
+    outline: none;
+    border-radius: 4px; 
+    padding-left: 10px;
+}
+
+.links a{
+text-decoration: none;
+color: rgb(204,204,204);
+margin-right: 20px;
+}
+.links a:hover{
+    color: #fff;
+}
+.links button{
+    border:none;
+    background-color: rgb(248,68,100);
+    color: #fff;
+    padding: 6px 14px;
+    border-radius: 5px;
+}
+.carousel{
+    background-color: rgb(237,237,237);
+}
+.marquee img{
+    padding: 10px 6px;
+    border-radius: 12px;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 60px;
+}
+.title a{
+    text-decoration: none;
+    color: rgb(248,68,100);
+}
+.movie{
+    margin-bottom: 250px;
+}
+.movies_list{
+    display: flex;
+    justify-content: center;
+}
+.movies_list img{
+    height: 378px;
+    width: 222px;
+    border-radius: 12px;
+   
+}
+.movies_list div{
+    margin: 0px 15px; 
+}
+.movies_list h1{
+    margin: 5px 0px;
+}
+.movies_list P{
+    margin: 0PX;
+    color: rgb(114, 114, 114);
+    font-weight: bold;
+}

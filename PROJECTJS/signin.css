@@ -1,0 +1,50 @@
+ */*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body{
+    margin: 0;
+}
+.sigInPage
+{
+    background-image:linear-gradient(rgb(62, 112, 152),rgba(234, 11, 78, 0.1)),url("./IN-en-20221228-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    text-align: center;
+}
+.formi{
+   padding-top: 250px;
+}
+h1{
+    color: #fff;
+    font-size: 40px;
+}
+span{
+    color:rgb(13, 177, 252) ;
+}
+input{
+    margin-top: 30px;
+ text-align: center;
+ font-size: 20px;
+  width: 250px;
+  height: 30px;
+  border-radius: 6px;
+  border-color: #fff;
+}
+button{
+    margin-top: 20px;
+    width: 8pc;
+    height: 35px;
+    border-radius: 8px;
+    border-style: none;
+    border-color: #fff;
+    font-size: 20px;
+    background-color: rgb(3, 177, 252);
+    color: #fff;
+
+}
+.email{
+margin-top: -20px;
+}

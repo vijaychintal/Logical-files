@@ -1,0 +1,58 @@
+*{
+    margin:0px ;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.body{
+    background-image: url("./12movie.avif");
+}
+nav{
+    background-image: linear-gradient(rgba(11, 72, 56, 0.4),rgb(33, 33, 75,0.5));
+    height: 50px;
+    width: 100%;
+    display: flex;
+    padding: 30px 30px;
+    align-items: center;
+    text-transform: capitalize;
+}
+.log{
+font-weight: bold;
+font-size: 30px;
+color: rgb(255, 255, 255);
+}
+.e ul{
+    margin-left: 150px;
+    list-style: none;
+    display: flex;
+}
+.e a{
+    font-weight: 300;
+    text-align: center;
+   text-decoration: none; 
+   font-size: large; 
+   padding: 0px 20px;
+   font-size: 25px;
+   color: #fff;
+}
+.f a{
+    margin-left: 50px;
+    padding: 3px 10px;
+    font-weight: 300;
+    text-align: center;
+   text-decoration: none; 
+   font-size: large;
+   font-size: 25px; 
+   color: #fff;
+   text-transform: uppercase;
+}
+.f button{
+    margin-left:30px;
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    border-style: none ;
+background-color: #FF8C4B;
+    color: #fff;
+}
