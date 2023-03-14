@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+h2{
+    background-color: brown;
+    font-size: 90px;
+    color: #fff;
+}
+.B{
+  padding-left: 1400px;
+}
+h3{
+  font-size: 45px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding-bottom:20px ;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+  background-image:linear-gradient(rgba(217, 255, 49, 0.3),rgba(3,3,3,0.3)),url("/images.jpg");
+  box-shadow: 12PX 8PX 12PX 8PX rgb(62, 59, 59);
+}
+.T{
+padding-left: 700px;
+}
+
+td{
+  padding: 20px;
+ 
+}
+td:hover{
+  border-width: 10px;
+  border-bottom-style:groove ;
+  border-top-style:groove ;
+  border-color: rgb(158, 158, 35);
+}
+label{
+  font-size: 46px;
+  border-radius: 30px;
+  border-style:double;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(130, 118, 173);
+  width: 30px;
+}
+input{
+  height: 43px;
+  width: 300px;
+  
+}
+.submit{
+  width: 150px;
+  font-size: 30px;
+  border-radius: 30px;
+}
+.submit:hover{
+  box-shadow: 3px 3px 3px rgb(211, 27, 27);
+color: rgb(246, 4, 4);
+}
+
+
+
+li{
+    padding-top: 90px;
+    float: left;
+  
+  }
+  nav a{
+    width: 100px;
+    text-align: center;
+    display: block;
+    padding: 20px 15px;
+    text-decoration: none;
+    margin-left: 260px;
+    font-size: 30px;
+    width:150px;
+    height: 30px;
+    font-size: 34px;
+    color: #fff;
+    background-color: rgb(27, 209, 215);
+    border-radius: 30px;
+  }
+  nav a:hover {
+    border-style: groove;
+    border-radius: 40px;
+    font-weight: 500;
+    color: rgb(227, 243, 7);
+    font-size: 20px;
+    box-shadow: 3px 4px rgb(240, 252, 11);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  

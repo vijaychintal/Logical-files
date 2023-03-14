@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+h2{
+    background-color: brown;
+    padding-left: 35%;
+    font-size: 90px;
+    color: #fff;
+}
+.A{
+    background-image:linear-gradient(rgba(118, 118, 23, 0.5),rgba(132, 0, 241, 0.2)),url("/pizza-1216737_1920-1024x562.png");
+}
+h1{
+  font-size: 34px;
+  color: #fff;
+  text-align: justify;
+  
+}
+
+li{
+    float: left;
+  
+  }
+  nav a{
+    width: 100px;
+    text-align: center;
+    display: block;
+    padding: 20px 15px;
+    text-decoration: none;
+    margin-left: 260px;
+    font-size: 30px;
+    width:150px;
+    height: 30px;
+    font-size: 34px;
+    color: #fff;
+    background-color: rgb(27, 209, 215);
+    border-radius: 30px;
+  }
+  nav a:hover {
+    border-style: groove;
+    border-radius: 40px;
+    font-weight: 400;
+    font-size: 20px;
+    box-shadow: 2px 2px rgb(72, 132, 38);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  
+  
