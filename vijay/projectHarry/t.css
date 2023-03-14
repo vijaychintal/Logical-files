@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sec {
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+
+.div1 {
+    width: 50%;
+}
+
+.div2 {
+    width: 50%;
+}
+
+.inp1 {
+    width: 50%;
+}

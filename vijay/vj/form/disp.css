@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+
+}
+.parent{
+    background: rgb(123, 25, 112);
+    margin: 90px;
+    height: 600PX;
+    border: 6px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+}
+.parent div{
+    border-radius: 30PX;
+    font-size: 30PX;
+    color: aliceblue;
+    background:red;
+    width: 40px;
+    margin: 10px 10px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}

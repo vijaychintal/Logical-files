@@ -1,0 +1,5 @@
+let r=fetch("http://localhost:8080/get").then(res =>{
+        return res.json();
+    }).then(data =>{
+        return data;
+    })
