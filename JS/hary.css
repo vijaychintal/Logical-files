@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+width: 100%;
+height: 100%;
+background: radial-gradient(rgb(208, 0, 0,0.1),rgb(66, 117, 66,0.2),rgb(255, 255, 57,0.3) ),url("./deer-3275594_960_720.webp");
+background-image: repeating-linear-gradient(100%);
+background-repeat: no-repeat;
+background-size:cover;
+}
+h1{
+    height: 100%;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
